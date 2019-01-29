@@ -1,0 +1,11 @@
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/bin/Debug/netcoreapp2.1/EjemploCrearLeerXML.deps.json
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/bin/Debug/netcoreapp2.1/EjemploCrearLeerXML.runtimeconfig.json
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/bin/Debug/netcoreapp2.1/EjemploCrearLeerXML.runtimeconfig.dev.json
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/bin/Debug/netcoreapp2.1/EjemploCrearLeerXML.dll
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/bin/Debug/netcoreapp2.1/EjemploCrearLeerXML.pdb
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/obj/Debug/netcoreapp2.1/EjemploCrearLeerXML.csprojAssemblyReference.cache
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/obj/Debug/netcoreapp2.1/EjemploCrearLeerXML.csproj.CoreCompileInputs.cache
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/obj/Debug/netcoreapp2.1/EjemploCrearLeerXML.AssemblyInfoInputs.cache
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/obj/Debug/netcoreapp2.1/EjemploCrearLeerXML.AssemblyInfo.cs
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/obj/Debug/netcoreapp2.1/EjemploCrearLeerXML.dll
+/Users/xcheko51x/Projects/EjemploCrearLeerXML/EjemploCrearLeerXML/obj/Debug/netcoreapp2.1/EjemploCrearLeerXML.pdb
